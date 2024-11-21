@@ -1,7 +1,24 @@
 ---
-title: "Wenxuan Jiang Website"
+title: "Wenxuan Jiang"
+about: 
+  template: solana
+  image: images/headshot.jpeg
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wenxuan-jiang/
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:wenxuan.jiang@psu.edu
 ---
 
-This is a Quarto website.
+Wenxuan is a second-year PhD student in Statistics at Penn State.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Education
+
+**The Pennsylvania State University** \
+PhD in Statistics | Aug 2023 - Present
+
+**The University of Texas at Austin** \
+BS in Mathematics | Aug 2019 - Dec 2022
