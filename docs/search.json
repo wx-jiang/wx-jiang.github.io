@@ -19,5 +19,19 @@
     "title": "Wenxuan Jiang",
     "section": "Education",
     "text": "Education\nThe Pennsylvania State University\nPhD in Statistics | Aug 2023 - Present\nThe University of Texas at Austin\nBS in Mathematics | Aug 2019 - Dec 2022"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Hello World!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog_posts/hello_world.html",
+    "href": "blog_posts/hello_world.html",
+    "title": "Hello World!",
+    "section": "",
+    "text": "This is my first blog."
   }
 ]

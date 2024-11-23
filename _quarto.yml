@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  favicon: images/heatmap_favicon.png
   navbar:
     left:
       - href: index.qmd
         text: Home
+      # - blog.qmd
       - about.qmd
 
 format:
