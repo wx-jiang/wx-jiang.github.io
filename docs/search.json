@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Wenxuan Jiang",
     "section": "",
-    "text": "Wenxuan is a second-year PhD student in Statistics at Penn State."
+    "text": "I am a second-year PhD student in Statistics at Penn State, advised by Prof. Murali Haran."
   },
   {
     "objectID": "index.html#education",
@@ -33,5 +33,33 @@
     "title": "Hello World!",
     "section": "",
     "text": "This is my first blog."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Wenxuan Jiang",
+    "section": "Teaching",
+    "text": "Teaching"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "",
+    "section": "",
+    "text": "STAT 414\nSTAT 200"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "",
+    "section": "Teaching",
+    "text": "Teaching"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "",
+    "section": "",
+    "text": "STAT 414\nSTAT 200"
   }
 ]

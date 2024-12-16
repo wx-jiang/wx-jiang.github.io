@@ -10,5 +10,8 @@
   },
   "blog_posts/hello_world.qmd": {
     "hello_world.html": "785f1fb7"
+  },
+  "teaching.qmd": {
+    "teaching.html": "113c3c92"
   }
 }

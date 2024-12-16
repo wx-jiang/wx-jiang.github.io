@@ -1,0 +1,11 @@
+/* Remove underline from links */
+a {
+    text-decoration: none; 
+}
+
+/* Adjust this width to match the main content */
+.navbar-container {
+    max-width: 820px; 
+    padding-left: 0px; 
+    padding-right: 0px; 
+} 

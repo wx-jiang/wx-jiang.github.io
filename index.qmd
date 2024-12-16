@@ -12,7 +12,7 @@ about:
       href: mailto:wenxuan.jiang@psu.edu
 ---
 
-Wenxuan is a second-year PhD student in Statistics at Penn State.
+I am a second-year PhD student in Statistics at Penn State, advised by [Prof. Murali Haran](https://sites.psu.edu/muraliharan/).
 
 
 ## Education
