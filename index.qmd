@@ -12,13 +12,6 @@ about:
       href: mailto:wenxuan.jiang@psu.edu
 ---
 
-I am a third-year PhD student in Statistics at Penn State, advised by [Prof. Murali Haran](https://sites.psu.edu/muraliharan/).
+Hi! I am Wenxuan Jiang, a third-year PhD student in the [Department of Statistics](https://science.psu.edu/stat) at [Penn State](https://www.psu.edu), where I am fortuante to be advised by [Prof. Murali Haran](https://sites.psu.edu/muraliharan/). My research interests include simulation-based inference, particularlly its applications to infectious disease models, statistical computing, and intractable likelihood problems.
 
-
-## Education
-
-**The Pennsylvania State University** \
-PhD in Statistics | Aug 2023 - Present
-
-**The University of Texas at Austin** \
-BS in Mathematics | Aug 2019 - Dec 2022
+Previously, I earned my bachelor's degree in Mathematics from [UT Austin](https://www.utexas.edu), where I had some wonderful time mentored by Dhivya Arassapan and Dr. Jeanne Kowalski.

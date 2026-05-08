@@ -13,5 +13,17 @@
   },
   "teaching.qmd": {
     "teaching.html": "113c3c92"
+  },
+  "publications.qmd": {
+    "publications.html": "2072b943"
+  },
+  "blog_posts/citation_management.qmd": {
+    "citation_management.html": "d277bc99"
+  },
+  "blog_posts/work_in_progress/citation_management.qmd": {
+    "citation_management.html": "a28644af"
+  },
+  "blog_posts/published/citation_management.qmd": {
+    "citation_management.html": "72e28f74"
   }
 }
