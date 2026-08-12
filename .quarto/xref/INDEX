@@ -25,5 +25,11 @@
   },
   "blog_posts/published/citation_management.qmd": {
     "citation_management.html": "72e28f74"
+  },
+  "agentic_coding_learning_notes.qmd": {
+    "agentic_coding_learning_notes.html": "4fbe1154"
+  },
+  "blog_posts/work_in_progress/agentic_coding_learning_notes.qmd": {
+    "agentic_coding_learning_notes.html": "5149ec00"
   }
 }

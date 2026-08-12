@@ -1,4 +1,5 @@
 /.quarto/
 /.Rhistory
-blog_posts/work_in_progress/
+**/blog_posts/work_in_progress/
 **/.DS_Store
+.vscode/
