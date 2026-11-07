@@ -1,9 +1,9 @@
 ---
 title: "Wenxuan Jiang"
-about: 
+about:
   template: solana
   image: images/headshot.jpeg
-  links: 
+  links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/wenxuan-jiang/
@@ -12,6 +12,22 @@ about:
       href: mailto:wenxuan.jiang@psu.edu
 ---
 
-Hi! I am Wenxuan Jiang, a third-year PhD student in the [Department of Statistics](https://science.psu.edu/stat) at [Penn State](https://www.psu.edu), where I am fortuante to be advised by [Prof. Murali Haran](https://sites.psu.edu/muraliharan/). My research interests include simulation-based inference, particularlly its applications to infectious disease models, statistical computing, and intractable likelihood problems.
+**Statistics PhD Student | Computational Statistics & Probabilistic Machine Learning**
 
-Previously, I earned my bachelor's degree in Mathematics from [UT Austin](https://www.utexas.edu), where I had some wonderful time mentored by Dhivya Arassapan and Dr. Jeanne Kowalski.
+Hi! I am a PhD student in the [Department of Statistics](https://science.psu.edu/stat) at [Penn State](https://www.psu.edu), advised by [Prof. Murali Haran](https://sites.psu.edu/muraliharan/). I expect to complete my PhD in May 2028.
+
+My research develops computational statistics and probabilistic machine learning methods for complex stochastic models with intractable likelihoods. I use simulations and neural networks to estimate model parameters and quantify uncertainty, with applications to infectious disease models. I am broadly interested in simulation-based inference, statistical computing, and intractable likelihood problems.
+
+Before Penn State, I earned my bachelor's degree in Mathematics from [UT Austin](https://www.utexas.edu), where I was mentored by Dhivya Arassapan and Dr. Jeanne Kowalski.
+
+### Teaching
+
+**Penn State** — Graduate Teaching Assistant
+
+- STAT 100, Statistical Concepts and Reasoning (Summer 2025)
+- STAT 200, Elementary Statistics (Summer 2024, Fall 2024)
+- STAT 414, Introduction to Probability Theory (Fall 2023, Spring 2024, Fall 2025)
+- STAT 461, Analysis of Variance (Spring 2025, Fall 2026)
+- STAT 540, Statistical Computing (Spring 2026)
+
+**UT Austin** — M 378K, Mathematical Statistics (Undergraduate Grader, Fall 2021)

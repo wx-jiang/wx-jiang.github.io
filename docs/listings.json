@@ -1,6 +1,8 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/blog_posts/published/citation_management.html"
+    ]
   }
 ]

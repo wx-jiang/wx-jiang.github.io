@@ -1,10 +1,21 @@
+/*-- scss:defaults --*/
+$grid-body-width: 900px;
+
 /*-- scss:rules --*/
+
+// remove underline from hyperlink
 a {
     text-decoration: none; 
 }
 
+// navigation bar container
 .navbar-container {
-    max-width: 820px; /* Test */
+    max-width: $grid-body-width;
     padding-left: 0px; 
     padding-right: 0px; 
 } 
+
+// Remove left padding from the first navigation link
+.navbar-nav .nav-item:first-child .nav-link {
+    padding-left: 0;
+}
