@@ -12,6 +12,7 @@ website:
       #   text: Publications
       - blog.qmd
       # - about.qmd
+  google-analytics: "G-RM1L6XC155"
 
 format:
   html:

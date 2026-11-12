@@ -14,15 +14,15 @@
     "text": "Chang, Y.-T., Chiu, I., Wang, Q., Bustamante, J., Jiang, W., Rycaj, K., Yi, S., Li, J., Kowalski-Muegge, J., and Matsui, W. (2023), “Loss of p 53 enhances the tumor-initiating potential and drug resistance of clonogenic multiple myeloma cells,” Blood Advances, 7, 3551–3560. https://doi.org/10.1182/bloodadvances.2022009387."
   },
   {
-    "objectID": "blog_posts/work_in_progress/citation_management.html",
-    "href": "blog_posts/work_in_progress/citation_management.html",
+    "objectID": "blog_posts/published/citation_management.html",
+    "href": "blog_posts/published/citation_management.html",
     "title": "Citation management in LaTeX",
     "section": "",
     "text": "Recently I have been writing my first manuscript in LaTeX, and the time has come that I need to insert all the relevant papers I have been hoarding in Zotero to the .tex file. I thought it would just be as simple as exporting a .bib file from Zotero and placing it in the manuscript folder. But boy, was I wrong. The default .bib file comes with many unnecessary fields, e.g. abstract, file path, etc, and it didn’t seem to give me an option in Zotero to unselect them when exporting. After a fair bit of confusion and digging around, I figured it would be worth documenting what I learned."
   },
   {
-    "objectID": "blog_posts/work_in_progress/citation_management.html#footnotes",
-    "href": "blog_posts/work_in_progress/citation_management.html#footnotes",
+    "objectID": "blog_posts/published/citation_management.html#footnotes",
+    "href": "blog_posts/published/citation_management.html#footnotes",
     "title": "Citation management in LaTeX",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nhttps://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib↩︎\nhttps://www.overleaf.com/learn/latex/Bibliography_management_with_natbib#Adding_the_bibliography_in_the_table_of_contents↩︎"
@@ -54,19 +54,5 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "blog_posts/published/citation_management.html",
-    "href": "blog_posts/published/citation_management.html",
-    "title": "Citation management in LaTeX",
-    "section": "",
-    "text": "Recently I have been writing my first manuscript in LaTeX, and the time has come that I need to insert all the relevant papers I have been hoarding in Zotero to the .tex file. I thought it would just be as simple as exporting a .bib file from Zotero and placing it in the manuscript folder. But boy, was I wrong. The default .bib file comes with many unnecessary fields, e.g. abstract, file path, etc, and it didn’t seem to give me an option in Zotero to unselect them when exporting. After a fair bit of confusion and digging around, I figured it would be worth documenting what I learned."
-  },
-  {
-    "objectID": "blog_posts/published/citation_management.html#footnotes",
-    "href": "blog_posts/published/citation_management.html#footnotes",
-    "title": "Citation management in LaTeX",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nhttps://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib↩︎\nhttps://www.overleaf.com/learn/latex/Bibliography_management_with_natbib#Adding_the_bibliography_in_the_table_of_contents↩︎"
   }
 ]
